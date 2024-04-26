@@ -31,11 +31,7 @@ Here are a few projects that showcase my skills and experience as a web develope
 
 ## Contact Me
 
-<html>
-  <body>
-    <p class="text-red-200">Hello, world!</p>
-  </body>
-</html>
+``Hello World!``
 
 Interested in collaborating on a project or just want to chat about web development? Feel free to reach out to me:
 
