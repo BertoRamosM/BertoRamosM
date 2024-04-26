@@ -1,6 +1,6 @@
 # Alberto Ramos - Web Developer
 
-Welcome to my GitHub repository! 🎉 I'm Alberto Ramos, a passionate web developer. Here's a glimpse into who I am as a programmer:
+Welcome to my GitHub repository! I'm Alberto Ramos, a passionate web developer. Here's a glimpse into who I am as a programmer:
 
 ---
 
@@ -10,9 +10,10 @@ I'm an enthusiastic individual who thrives on challenges and embraces continuous
 
 ## Skills
 
-- **Languages**: JavaScript (ES6+), Astro, HTML5, CSS3
-- **Frameworks/Libraries**: React.js, Redux
-- **Tools**: Git, npm, VS Code
+- **Languages**: JavaScript, Astro, HTML5, CSS3
+- **Frameworks/Libraries**: React.js, Redux, Typescript, Tailwind, Styled Components ... 
+- **Tools**: Git, Github, VS Code
+- - **Languages**: Spanish, English, French, Catalan
 
 ## Approach
 
