@@ -29,7 +29,6 @@ Here are a few projects that showcase my skills and experience as a web develope
 
 - **portfolio**: powered by Astro! 🚀 Explore my web development projects with seamless navigation and fast performance.
 
-
 ## Contact Me
 
 Interested in collaborating on a project or just want to chat about web development? Feel free to reach out to me:
