@@ -31,6 +31,12 @@ Here are a few projects that showcase my skills and experience as a web develope
 
 ## Contact Me
 
+<html>
+  <body>
+    <p>Hello, world!</p>
+  </body>
+</html>
+
 Interested in collaborating on a project or just want to chat about web development? Feel free to reach out to me:
 
 - **Email**: bertoramos@proton.me
