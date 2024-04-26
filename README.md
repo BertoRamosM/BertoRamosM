@@ -13,7 +13,7 @@ I'm an enthusiastic individual who thrives on challenges and embraces continuous
 - **Languages**: JavaScript, Astro, HTML5, CSS3
 - **Frameworks/Libraries**: React.js, Redux, Typescript, Tailwind, Styled Components ... 
 - **Tools**: Git, Github, VS Code
-- - **Languages**: Spanish, English, French, Catalan
+- **Languages**: Spanish, English, French, Catalan
 
 ## Approach
 
