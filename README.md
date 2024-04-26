@@ -33,7 +33,7 @@ Here are a few projects that showcase my skills and experience as a web develope
 
 <html>
   <body>
-    <p>Hello, world!</p>
+    <p class="text-red-200">Hello, world!</p>
   </body>
 </html>
 
